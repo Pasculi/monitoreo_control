@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    background:#5A7EBE;
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+    border-bottom:8px solid #375D9D;
+}

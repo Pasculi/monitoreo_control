@@ -1,0 +1,27 @@
+
+/*Reset de parámetros*/
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/root/root.css);
+@import url(../blocks/container/container.css);
+
+/*Header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+/*Menu*/
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__menu/nav__menu.css);
+@import url(../blocks/nav/__menu/nav__menu-primario.css);
+@import url(../blocks/nav/__menu/nav__menu-secundario.css);
+@import url(../blocks/nav/__menu/nav__menu-item-secundario.css);
+@import url(../blocks/nav/__menu/nav__menu-item.css);
+@import url(../blocks/nav/__menu/nav__menu-desplegar.css);
+@import url(../blocks/nav/__menu/nav__menu-desplegar-image.css);
+
+/*Main*/
+@import url(../blocks/main/main.css);
+
+
+/*footer*/
+@import url(../blocks/footer/footer.css);
