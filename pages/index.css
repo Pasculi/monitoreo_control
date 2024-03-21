@@ -16,11 +16,21 @@
 @import url(../blocks/nav/__menu/nav__menu-secundario.css);
 @import url(../blocks/nav/__menu/nav__menu-item-secundario.css);
 @import url(../blocks/nav/__menu/nav__menu-item.css);
-@import url(../blocks/nav/__menu/nav__menu-desplegar.css);
 @import url(../blocks/nav/__menu/nav__menu-desplegar-image.css);
+
+/*Input Search*/
+@import url(../blocks/input/input__search.css);
 
 /*Main*/
 @import url(../blocks/main/main.css);
+
+@import url(../blocks/section/section.css);
+
+/*Crads*/
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__logo/card__logo-channel.css);
+@import url(../blocks/card/__footer/card__footer.css);
+@import url(../blocks/card/__numero/card__numero.css);
 
 
 /*footer*/

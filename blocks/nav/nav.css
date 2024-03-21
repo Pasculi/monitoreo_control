@@ -13,18 +13,7 @@
     position: relative;
     cursor: pointer;
 }
-.nav__menu-secundario{
-    background: rgb(255, 162, 0, 0.8);
-    display: flex;
-    flex-direction: column;
-    list-style: none;
-    display: none;
-    justify-content: flex-start;
-    padding:8px;
-    margin: 0;
-    transition: .3s;
 
-}
 .nav__menu-primario .nav__menu-item:hover  .nav__menu-secundario{
     display: block;
 }

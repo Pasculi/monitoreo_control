@@ -25,13 +25,28 @@
             </ul>
         </nav>
         <main class="main">
-            <h1>Buscar</h1>
+            <input id="buscar__canal" class="input__search" placeholder="Nombre o número de canal...">
+            <span class="form__input-error"></span>
         </main>
-        
-    
+        <section class="section">
+
+            <template class="template">
+                <div class="card">
+                      <p class="card__nombre"></p>
+                      <img class="card__logo-channel" src="./images/logo_gtd_tv.png" alt="logo" class="card__logo" />
+                      <div class="card__footer">
+                        <p class="card__numero"></p>
+                        <p class="card__severidad"></p>
+                      </div>
+                    </div>
+            </template>
+        </section>
+       
+            
     <footer class="footer">
         <code class="footer__name">Desarrollado por: Jorge R. Sepúlveda Turpie | Especialista de Monitoreo y Control</code>
     </footer>
+    <script type="module" src="./pages/index.js"></script>
 </div>
 </body>
 </html>
