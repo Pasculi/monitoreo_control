@@ -1,7 +1,6 @@
 export default class Card{
   //Para generar una car se necesita el selector, en este caso del template
   constructor(data, selector) {
-    console.log({nombre: data.nombre})
     this._selector = selector;
     this._name = data.nombre;
     this._channelTelsur = data.channelTelsur;
