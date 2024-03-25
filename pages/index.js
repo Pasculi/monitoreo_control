@@ -1,14 +1,8 @@
-import {canales, section} from '../src/utils/constants.js'
-import { Card } from '../src/components/Card.js'
+import { canales, templateCard } from '../src/utils/constants.js';
+import Card from '../src/components/Card.js';
 
 
+console.log(canales)
 
-
-
-
-/* canales.forEach(item =>{
-   item = new Card(canales, '.template', section);
-    section.append(item.generateCard())
-
-}) */
-
+const createCard = new Card(templateCard);
+console.log(createCard)

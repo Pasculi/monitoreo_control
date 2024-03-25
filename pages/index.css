@@ -35,3 +35,6 @@
 
 /*footer*/
 @import url(../blocks/footer/footer.css);
+
+/*PopUp*/
+@import url(../blocks/popup/__card-info/popup__card-info.css);

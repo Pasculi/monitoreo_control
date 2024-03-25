@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./pages/index.css">
     <title>COR</title>
 </head>
+
 <body class="root">
     <div class="container">
         <header class="header">
@@ -14,7 +16,8 @@
         <nav class="nav">
             <ul class="nav__menu nav__menu-primario">
                 <li class="nav__menu-item nav__menu-item-primario">Datos e Internet</li>
-               <li class="nav__menu-item nav__menu-item-primario">Televisión <img class="nav__menu-desplegar-image" src="/images/flecha/icons8-flecha-ampliar-24.png" alt="desplegar">
+                <li class="nav__menu-item nav__menu-item-primario">Televisión <img class="nav__menu-desplegar-image"
+                        src="/images/flecha/icons8-flecha-ampliar-24.png" alt="desplegar">
                     <ul class="nav_menu nav__menu-secundario">
                         <li class="nav__menu-item nav__menu-item-secundario">Checklist</li>
                         <li class="nav__menu-item nav__menu-item-secundario">Señales TV</li>
@@ -25,28 +28,83 @@
             </ul>
         </nav>
         <main class="main">
+            <h2 class="buascar__title">Buscar señal</h2>
             <input id="buscar__canal" class="input__search" placeholder="Nombre o número de canal...">
             <span class="form__input-error"></span>
         </main>
         <section class="section">
 
-            <template class="template">
-                <div class="card">
-                      <p class="card__nombre"></p>
-                      <img class="card__logo-channel" src="./images/logo_gtd_tv.png" alt="logo" class="card__logo" />
-                      <div class="card__footer">
-                        <p class="card__numero"></p>
-                        <p class="card__severidad"></p>
-                      </div>
-                    </div>
-            </template>
         </section>
-       
-            
-    <footer class="footer">
-        <code class="footer__name">Desarrollado por: Jorge R. Sepúlveda Turpie | Especialista de Monitoreo y Control</code>
-    </footer>
-    <script type="module" src="./pages/index.js"></script>
-</div>
+        <template class="template-card-forward">
+            <div class="card">
+                <p class="card__nombre">TVN</p>
+                <img class="card__logo-channel" src="./images/logo_gtd_tv.png" alt="logo" class="card__logo" />
+                <div class="card__footer">
+                    <p class="card__numero">25</p>
+                    <p class="card__severidad">1</p>
+                </div>
+            </div>
+        </t>
+        <section class="popup template-card-reverse">
+            <div class="popup__card__info">
+                <img src="./images/vector__close.png" alt="Cerrar Modal" class="popup__card__close">
+                <div class="popup__card__header">
+                    <p class="popup__card__numero">26</p>
+                    <img class="popup__card__logo"
+                        src="https://brandemia.org/sites/default/files/sites/default/files/logo_mega-despues.jpg"
+                        alt="">
+                    <p class="popup__card__nombre">MEGAVISION</p>
+                </div>
+                <div class="popup__card__main">
+                    <table class="popup__card__table">
+                        <tr class="popup__card__table-row">
+                            <th class="popup__card__table-th"></th>
+                            <th class="popup__card__table-th">ADSL</th>
+                            <th class="popup__card__table-th">FCA</th>
+                            <th class="popup__card__table-th">MPEG4</t>
+                        </tr>
+                        <tr class="popup__card__table-row">
+                            <td class="popup__card__table-td"></td>
+                            <td class="popup__card__table-td">239.255.2.77</td>
+                            <td class="popup__card__table-td">239.255.3.77</td>
+                            <td class="popup__card__table-td">239.255.2.145</td>
+                        </tr>
+                        <tr class="popup__card__table-row">
+                            <td class="popup__card__table-td">Encoder</td>
+                            <td class="popup__card__table-encode"><a href="http://172.19.14.127/#/Authenticate/"
+                                    target="_blank">172.19.14.127</a></td>
+                            <td class="popup__card__table-encode"><a href="http://172.19.14.119/#/Authenticate/"
+                                    target="_blank">172.19.14.119</a></td>
+                            <td class="popup__card__table-encode"><a href="http://172.19.14.116/#/Authenticate/"
+                                    target="_blank">172.19.14.116</a></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="popup__card__footer">
+                    <table>
+                        <tr>
+                            <th class="popup__card__table-th">Contacto</th>
+                        </tr>
+                        <tr>
+                            <td class="popup__card__table-contact">Joaquin Rafael Phoenix</td>
+                            <td class="popup__card__table-contact">jphoenix@gmail.com</td>
+                            <td class="popup__card__table-contact">988773456</td>
+                        </tr>
+                        <tr>
+                            <td class="popup__card__table-contact">Heath Ledger</td>
+                            <td class="popup__card__table-contact">hledger@gmail.com</td>
+                            <td class="popup__card__table-contact">911998877</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </section>
+        <footer class="footer">
+            <code class="footer__name">Desarrollado por: Jorge R. Sepúlveda Turpie | Especialista de Monitoreo y
+                Control</code>
+        </footer>
+        <script type="module" src="./pages/index.js"></script>
+    </div>
 </body>
+
 </html>
