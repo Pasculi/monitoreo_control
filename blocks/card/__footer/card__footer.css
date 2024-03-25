@@ -1,5 +1,7 @@
 .card__footer{
     display: flex;
+    position: absolute;
+    bottom:0;
     flex-direction: column;
     align-items: center;
 }

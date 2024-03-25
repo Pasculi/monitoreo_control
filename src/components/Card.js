@@ -16,9 +16,9 @@ export default class Card{
   }
   generateCard(){
     this._nodeCard = this._getTemplate();
-    this._nodeCard.querySelector('.card__nombre').textContent = this._name;    
+    this._nodeCard.querySelector('.card__nombre').textContent = (this._name).toUpperCase();    
     this._nodeCard.querySelector('.card__logo-channel').src = this._src;
-    this._nodeCard.querySelector('.card__logo-channel').alt = this._name;
+    this._nodeCard.querySelector('.card__logo-channel').alt = (this._name).toLowerCase();
     this._nodeCard.querySelector('.card__numero').textContent = this._channelTelsur;
     this._nodeCard.querySelector('.card__severidad').textContent = `Severidad: ${this._severidad}`;
     return this._nodeCard;

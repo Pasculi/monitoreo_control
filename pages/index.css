@@ -30,7 +30,9 @@
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__logo/card__logo-channel.css);
 @import url(../blocks/card/__footer/card__footer.css);
+@import url(../blocks/card/__header/card__header.css);
 @import url(../blocks/card/__numero/card__numero.css);
+@import url(../blocks/card/__nombre/card__nombre.css);
 
 
 /*footer*/

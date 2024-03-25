@@ -9,7 +9,7 @@ export const canales = [
     adsl: "239.255.2.138",
     fca: "239.255.2.138",
     mpeg4: "239.255.3.50",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_ChannelTelsur_Logo.svg/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
 
@@ -24,7 +24,7 @@ export const canales = [
     adsl: "239.255.2.115",
     fca: "239.255.5.215",
     mpeg4: "239.255.5.215",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png"
   },
@@ -38,7 +38,7 @@ export const canales = [
     adsl: "239.255.2.169",
     fca: "239.255.2.169",
     mpeg4: "239.255.2.169",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
   },
@@ -52,7 +52,7 @@ export const canales = [
     adsl: "239.255.2.116",
     fca: "239.255.5.116",
     mpeg4: "239.255.5.116",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png"
   },
@@ -66,7 +66,7 @@ export const canales = [
     adsl: "239.255.2.247",
     fca: "239.255.2.247",
     mpeg4: "239.255.3.247",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png"
   },
@@ -80,7 +80,7 @@ export const canales = [
     adsl: "239.255.2.20",
     fca: "239.255.5.20",
     mpeg4: "239.255.5.20",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
   },
@@ -94,7 +94,7 @@ export const canales = [
     adsl: "239.255.2.62",
     fca: "239.255.5.144",
     mpeg4: "239.255.5.144",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png"
   },
@@ -108,7 +108,7 @@ export const canales = [
     adsl: "239.255.2.25",
     fca: "239.255.5.25",
     mpeg4: "239.255.5.25",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png"
   },
@@ -122,7 +122,7 @@ export const canales = [
     adsl: "239.255.2.24",
     fca: "239.255.5.24",
     mpeg4: "239.255.3.54",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"
   },
@@ -136,7 +136,7 @@ export const canales = [
     adsl: "239.255.2.6",
     fca: "239.255.2.6",
     mpeg4: "239.255.3.248",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png"
   },
@@ -150,7 +150,7 @@ export const canales = [
     adsl: "239.255.2.5",
     fca: "239.255.2.5",
     mpeg4: "239.255.3.246",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_ChannelTelsur_logo.svg/800px-2019_Disney_ChannelTelsur_logo.svg.png"
 
@@ -165,7 +165,7 @@ export const canales = [
     adsl: "239.255.2.165",
     fca: "239.255.2.165",
     mpeg4: "239.255.2.165",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png"
   },
@@ -179,7 +179,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.165",
     mpeg4: "239.255.2.165",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
   },
@@ -197,7 +197,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.165",
     mpeg4: "239.255.2.165",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg"
   },
@@ -211,7 +211,7 @@ export const canales = [
     adsl: "239.255.2.106",
     fca: "239.255.2.106",
     mpeg4: "239.255.2.106",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Telsur_logo_2019.svg/1200px-Telsur_logo_2019.svg.png"
   },
@@ -225,7 +225,7 @@ export const canales = [
     adsl: "239.255.2.131",
     fca: "239.255.2.25",
     mpeg4: "239.255.2.125",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png"
   },
@@ -239,7 +239,7 @@ export const canales = [
     adsl: "239.255.2.111",
     fca: "239.255.2.111",
     mpeg4: "239.255.2.124",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/800px-TV%2B_%282018%29.png"
   },
@@ -253,7 +253,7 @@ export const canales = [
     adsl: "239.255.2.10",
     fca: "239.255.2.10",
     mpeg4: "239.255.3.123",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png"
   },
@@ -267,7 +267,7 @@ export const canales = [
     adsl: "239.255.3.72 ",
     fca: "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
     mpeg4: "239.255.3.47",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
   },
@@ -281,7 +281,7 @@ export const canales = [
     adsl: "239.255.3.78",
     fca: "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
     mpeg4: "239.255.3.47",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
   },
@@ -295,7 +295,7 @@ export const canales = [
     adsl: "239.255.2.79",
     fca: "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
     mpeg4: "239.255.3.47",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
   },
@@ -309,7 +309,7 @@ export const canales = [
     adsl: "239.255.2.77",
     fca: "239.255.3.77",
     mpeg4: "239.255.2.145",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://brandemia.org/sites/default/files/sites/default/files/logo_mega-despues.jpg"
   },
@@ -323,7 +323,7 @@ export const canales = [
     adsl: "239.255.2.76",
     fca: "239.255.5.76",
     mpeg4: "239.255.3.148",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://www.ecured.cu/images/5/5a/Sdrfgd.png"
   },
@@ -337,7 +337,7 @@ export const canales = [
     adsl: "239.255.2.78",
     fca: "239.255.5.78",
     mpeg4: "239.255.3.155",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
   },
@@ -351,7 +351,7 @@ export const canales = [
     adsl: "239.255.2.132",
     fca: "239.255.2.132",
     mpeg4: "239.255.2.132",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png/1200px-Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png "
   },
@@ -365,7 +365,7 @@ export const canales = [
     adsl: "239.255.3.58",
     fca: "239.255.3.58",
     mpeg4: "239.255.2.141",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://media.licdn.com/dms/image/C510BAQEBuxnuTcXbKw/company-logo_200_200/0/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
   },
@@ -379,7 +379,7 @@ export const canales = [
     adsl: "239.255.5.139",
     fca: "239.255.5.139",
     mpeg4: "239.255.5.140",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://play-lh.googleusercontent.com/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
   },
@@ -393,7 +393,7 @@ export const canales = [
     adsl: "239.255.2.134",
     fca: "239.255.2.134",
     mpeg4: "239.255.2.18",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png"
   },
@@ -407,7 +407,7 @@ export const canales = [
     adsl: "239.255.2.81",
     fca: "239.255.2.81",
     mpeg4: "239.255.3.81",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://blogger.googleusercontent.com/img/a/AVvXsEgiMcRVL0kEJwuaeC4079_ngWi7V3Kqu8wnlZ-YkZg6c1sH3TxG4rdm58-TmqwT5wejR0SsMq0FONU6x4pVrzBKh2bbDYSVOh2YJwtIdnsEYOSYQtoQHodkVyquEXehr4MB4ZcL8a3O0J_svZu3mVM_EPi55wspznWRRq_-9coswdI_nddwg9CySCXB=w350-h350-p-k-no-nu"
   },
@@ -421,7 +421,7 @@ export const canales = [
     adsl: "239.255.2.80",
     fca: "239.255.2.80",
     mpeg4: "239.255.3.80",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://yt3.googleusercontent.com/LZpQvyS2ypZ0BIUHubPJLCtz_vK4hDeiPDgrDJ6lAyWQ85SavcABFjPVmTikZXMebAi6tuGwjA=s176-c-k-c0x00ffffff-no-rj"
   },
@@ -435,7 +435,7 @@ export const canales = [
     adsl: "239.255.2.241",
     fca: "239.255.2.241",
     mpeg4: "239.255.2.241",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/9/96/ARTV_Logo_2020.png"
   },
@@ -449,7 +449,7 @@ export const canales = [
     adsl: "239.255.2.133",
     fca: "239.255.2.133",
     mpeg4: "239.255.2.133",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1200px-Logo_tvu.png"
   },
@@ -463,7 +463,7 @@ export const canales = [
     adsl: "239.255.2.140",
     fca: "239.255.2.140",
     mpeg4: "239.255.2.140",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://pbs.twimg.com/profile_images/1157995121/INET_def_400x400.JPG"
   },
@@ -477,7 +477,7 @@ export const canales = [
     adsl: "239.255.2.151",
     fca: "239.255.2.151",
     mpeg4: "239.255.2.151",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://roccotv.cl/wp-content/uploads/2015/02/roccotv.png"
   },
@@ -491,7 +491,7 @@ export const canales = [
     adsl: "239.255.2.150",
     fca: "239.255.2.150",
     mpeg4: "239.255.2.13",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.cega-uchile.cl/wp-content/uploads/2021/04/cool-tv.png"
   },
@@ -505,7 +505,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.150",
     mpeg4: "239.255.2.13",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gKEcRWH5rzZE2gwH6aC2eqGvKviMRkOwuvmH0mjVXw&s"
   },
@@ -519,7 +519,7 @@ export const canales = [
     adsl: "239.255.2.229",
     fca: "239.255.2.229",
     mpeg4: "239.255.2.229",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.canalisb.cl/imagenes/logo_isb.png"
   },
@@ -533,7 +533,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.103",
     mpeg4: "239.255.2.103",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/292061370_746775573329831_327099021967277308_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGij-3IBKSGPMGezzb9xbwAU1ar_DOvt3ZTVqv8M6-3dmQTTlG3n60cA_T98_7A_A4&_nc_ohc=uwNF12br1vIAX9IEweR&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBRi5OZA0ppU_KV3aPzx7lJuZI-xNzUEnMU82S5wRF6cQ&oe=655502D3"
   },
@@ -547,7 +547,7 @@ export const canales = [
     adsl: "239.255.2.226",
     fca: "239.255.2.27",
     mpeg4: "239.255.2.226",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/295758420_23877160271897993_6741801130688224486_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHt_2fI_iuzgUecOE3GJsWjw8hA3_MsnLPDyEDf8yycs2NCRoyNlE5a9zuSEjFMq-c&_nc_ohc=4SJVKtnKurkAX_a7_b5&_nc_ht=scontent.fscl1-1.fna&oh=00_AfD2B2N0fnFc96L1H5ktpqf_pEU0a2rzhfvjf6uUN8-ffA&oe=65548F66"
   },
@@ -561,7 +561,7 @@ export const canales = [
     adsl: "239.255.2.225",
     fca: "239.255.2.225",
     mpeg4: "239.255.2.225",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://canaldelsur.cl/wp-content/uploads/2016/07/logo-cds-2.png"
   },
@@ -575,7 +575,7 @@ export const canales = [
     adsl: "239.255.2.143",
     fca: "239.255.2.143",
     mpeg4: "239.255.3.63",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://pbs.twimg.com/profile_images/705138470050631680/gypFDeR4_400x400.jpg"
   },
@@ -589,7 +589,7 @@ export const canales = [
     adsl: "239.255.2.240",
     fca: "239.255.2.240",
     mpeg4: "239.255.2.240",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg"
   },
@@ -603,7 +603,7 @@ export const canales = [
     adsl: "239.255.5.149",
     fca: "239.255.5.149",
     mpeg4: " '",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://yt3.googleusercontent.com/ytc/APkrFKa27btDuwnJuxhCQwtM6VMno_D7IfqM7S6AxIuL=s176-c-k-c0x00ffffff-no-rj"
   },
@@ -617,7 +617,7 @@ export const canales = [
     adsl: "239.255.3.115",
     fca: "239.255.3.115",
     mpeg4: "239.255.3.114",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn-profiles.tunein.com/s186613/images/logog.jpg?t=1648931077000"
   },
@@ -631,7 +631,7 @@ export const canales = [
     adsl: "239.255.3.2",
     fca: "239.255.3.2",
     mpeg4: "239.255.3.2",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://pbs.twimg.com/profile_images/421716542946955264/hBlmbZpL_400x400.png"
   },
@@ -645,7 +645,7 @@ export const canales = [
     adsl: "239.255.3.82",
     fca: "239.255.3.82",
     mpeg4: "239.255.3.82",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://radio1latina.cl/wp-content/uploads/2015/01/logo.png"
   },
@@ -659,7 +659,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.82",
     mpeg4: "239.255.3.82",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://tectv.cl/wp-content/uploads/2020/10/TECTV-sin-hd.png"
   },
@@ -673,7 +673,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.177",
     mpeg4: " '",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp"
   },
@@ -687,7 +687,7 @@ export const canales = [
     adsl: "239.255.3.177",
     fca: "239.255.3.177",
     mpeg4: " '",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UMAG-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
   },
@@ -701,7 +701,7 @@ export const canales = [
     adsl: "239.255.5.136",
     fca: "239.255.5.136",
     mpeg4: " '",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://castromunicipiotv.cl/wp-content/uploads/2023/06/LOGO-CASTRO-TV-1-e1687559394757.png"
   },
@@ -715,7 +715,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.44",
     mpeg4: "239.255.3.205",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://tvuct.cl/wp-content/uploads/logo-retina.png"
   },
@@ -729,7 +729,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.44",
     mpeg4: "239.255.3.205",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://tvuct.cl/wp-content/uploads/logo-retina.png"
   },
@@ -743,7 +743,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.44",
     mpeg4: "239.255.3.205",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.png"
   },
@@ -757,7 +757,7 @@ export const canales = [
     adsl: "239.255.3.154",
     fca: "239.255.3.154",
     mpeg4: "239.255.3.154",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png"
   },
@@ -771,7 +771,7 @@ export const canales = [
     adsl: "239.255.2.44",
     fca: "239.255.5.44",
     mpeg4: "239.255.3.205",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png"
   },
@@ -785,7 +785,7 @@ export const canales = [
     adsl: "239.255.2.73",
     fca: "239.255.2.73",
     mpeg4: "239.255.3.107",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_2_blanco.png.4cb2bc193dc2463c8704a6ad1ddb4ca0.png"
   },
@@ -799,7 +799,7 @@ export const canales = [
     adsl: "239.255.2.100",
     fca: "239.255.2.100",
     mpeg4: "239.255.2.100",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1631_CL.png"
   },
@@ -813,7 +813,7 @@ export const canales = [
     adsl: "239.255.3.207",
     fca: "239.255.3.207",
     mpeg4: "239.255.3.207",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://cdn.mitvstatic.com/channelTelsurs/cl_fox-sports-1-hd_m.png"
 
@@ -828,7 +828,7 @@ export const canales = [
     adsl: "239.255.3.15",
     fca: "239.255.3.15",
     mpeg4: "239.255.3.15",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
   },
@@ -842,7 +842,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.15",
     mpeg4: "239.255.3.15",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SporTV_2021.png/200px-SporTV_2021.png"
   },
@@ -856,7 +856,7 @@ export const canales = [
     adsl: "239.255.3.179",
     fca: "239.255.3.179",
     mpeg4: "239.255.3.179",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
 
@@ -871,7 +871,7 @@ export const canales = [
     adsl: "239.255.3.184",
     fca: "239.255.3.184",
     mpeg4: "239.255.3.184",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
 
@@ -886,7 +886,7 @@ export const canales = [
     adsl: "239.255.3.219",
     fca: "239.255.5.100",
     mpeg4: "239.255.3.239",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png",
   },
@@ -900,7 +900,7 @@ export const canales = [
     adsl: "239.255.3.32",
     fca: "239.255.3.32",
     mpeg4: "239.255.3.32",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png",
   },
@@ -914,7 +914,7 @@ export const canales = [
     adsl: "239.255.2.74",
     fca: "239.255.2.74",
     mpeg4: "239.255.3.108",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg"
   },
@@ -928,7 +928,7 @@ export const canales = [
     adsl: "239.255.2.43",
     fca: "239.255.5.43",
     mpeg4: "239.255.3.206",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/624.png"
 
@@ -943,7 +943,7 @@ export const canales = [
     adsl: "239.255.2.7",
     fca: "239.255.2.7",
     mpeg4: "239.255.3.156",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/621.png",
 
@@ -959,7 +959,7 @@ export const canales = [
     adsl: "239.255.2.12",
     fca: "239.255.5.12",
     mpeg4: "239.255.3.157",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/622.png",
   },
@@ -973,7 +973,7 @@ export const canales = [
     adsl: "239.255.2.90",
     fca: "239.255.5.90",
     mpeg4: "239.255.3.158",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/623.png"
 
@@ -988,7 +988,7 @@ export const canales = [
     adsl: "239.255.2.244",
     fca: "239.255.2.244",
     mpeg4: "239.255.2.244",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png"
   },
@@ -1002,7 +1002,7 @@ export const canales = [
     adsl: "239.255.2.172",
     fca: "239.255.2.172",
     mpeg4: "239.255.2.57",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png"
   },
@@ -1016,7 +1016,7 @@ export const canales = [
     adsl: "239.255.2.40",
     fca: "239.255.3.235",
     mpeg4: "239.255.3.209",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png"
   },
@@ -1030,7 +1030,7 @@ export const canales = [
     adsl: "239.255.2.121",
     fca: "239.255.5.121",
     mpeg4: "239.255.5.121",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png"
   },
@@ -1044,7 +1044,7 @@ export const canales = [
     adsl: "239.255.2.248",
     fca: "239.255.2.248",
     mpeg4: "239.255.2.248",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/300px-Logo_AM-sports-2019.svg.png"
   },
@@ -1058,7 +1058,7 @@ export const canales = [
     adsl: "239.255.3.180",
     fca: "239.255.3.180",
     mpeg4: "239.255.3.180",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png"
   },
@@ -1076,7 +1076,7 @@ export const canales = [
     adsl: "239.255.2.238",
     fca: "239.255.2.238",
     mpeg4: "239.255.3.210",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_ChannelTelsur_Logo_2018.png/200px-Golf_ChannelTelsur_Logo_2018.png"
 
@@ -1091,7 +1091,7 @@ export const canales = [
     adsl: "239.255.2.113",
     fca: "239.255.5.113",
     mpeg4: "239.255.5.113",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
   },
@@ -1105,7 +1105,7 @@ export const canales = [
     adsl: "239.255.2.249",
     fca: "239.255.2.249",
     mpeg4: "239.255.2.249",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/784.png"
 
@@ -1120,7 +1120,7 @@ export const canales = [
     adsl: "239.255.3.8",
     fca: "239.255.3.8",
     mpeg4: "239.255.3.8",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/180px-Telefe_%28nuevo_logo%29.png"
   },
@@ -1134,7 +1134,7 @@ export const canales = [
     adsl: "239.255.2.96",
     fca: "239.255.2.96",
     mpeg4: "239.255.2.96",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://scontent.fzal1-1.fna.fbcdn.net/v/t39.30808-6/348289453_769644144538439_8030431306324475280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFPjUazWVOvzDkc57NmgCFPo44IoOPGWjKjjgig48ZaMnoMSFzPQWz9WzORmHr5GBw&_nc_ohc=oWYuWM4nAbMAX9zamF2&_nc_ht=scontent.fzal1-1.fna&oh=00_AfD1vTWVzt55bqDqb42IHYE4TL2SwtHgB1HcwMgto336hQ&oe=65556BE6"
   },
@@ -1148,7 +1148,7 @@ export const canales = [
     adsl: "239.255.2.168",
     fca: "239.255.2.168",
     mpeg4: "239.255.2.168",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/125px-Caracol_Televisi%C3%B3n_logo_2023.png"
   },
@@ -1162,7 +1162,7 @@ export const canales = [
     adsl: "239.255.3.172",
     fca: "239.255.3.172",
     mpeg4: "239.255.3.172",
-    criticidad: "Severidad:  '",
+    criticidad: " '",
     bw: "3.5",
     src: "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Campo-Abierto-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
   },
@@ -1176,7 +1176,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.172",
     mpeg4: "239.255.3.172",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_canal_vasco.png/220px-Logo_canal_vasco.png"
   },
@@ -1190,7 +1190,7 @@ export const canales = [
     adsl: "239.255.2.72",
     fca: "239.255.2.72",
     mpeg4: "239.255.3.193",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e58408bb6c5b2ab54aad6_a3int.jpg"
   },
@@ -1204,7 +1204,7 @@ export const canales = [
     adsl: "239.255.3.9",
     fca: "239.255.3.9",
     mpeg4: "239.255.3.9",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png"
   },
@@ -1218,7 +1218,7 @@ export const canales = [
     adsl: "239.255.2.75",
     fca: "239.255.2.75",
     mpeg4: "239.255.2.75",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png"
   },
@@ -1232,7 +1232,7 @@ export const canales = [
     adsl: "239.255.2.35",
     fca: "239.255.5.35",
     mpeg4: "239.255.5.35",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png"
   },
@@ -1246,7 +1246,7 @@ export const canales = [
     adsl: "239.255.2.42",
     fca: "239.255.2.42",
     mpeg4: "239.255.2.42",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I0zjy0YCjrpfdjPoBR1bfDHY6ikEZTvDSmYbt5NzLlOY35Z5RDq93mQoQhb-QfqQB9g&usqp=CAU"
   },
@@ -1260,7 +1260,7 @@ export const canales = [
     adsl: "239.255.2.42",
     fca: "239.255.2.42",
     mpeg4: "239.255.2.42",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png?s=900x600&e=t"
   },
@@ -1274,7 +1274,7 @@ export const canales = [
     adsl: "239.255.2.2",
     fca: "239.255.2.2",
     mpeg4: "239.255.2.128",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.tumundo.cl/wp-content/uploads/2022/11/Azteca_Internacional_Logo-1.jpg"
   },
@@ -1288,7 +1288,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.2",
     mpeg4: "239.255.2.128",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/America_Televisi%C3%B3n-logo.svg/799px-America_Televisi%C3%B3n-logo.svg.png"
   },
@@ -1302,7 +1302,7 @@ export const canales = [
     adsl: "239.255.3.66",
     fca: "239.255.3.66",
     mpeg4: "239.255.3.66",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/180px-VOA_logo.svg.png"
   },
@@ -1316,7 +1316,7 @@ export const canales = [
     adsl: "239.255.3.6",
     fca: "239.255.5.6",
     mpeg4: "239.255.5.6",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://static.dw.com/image/15705485_1005.jpg"
   }, {
@@ -1329,7 +1329,7 @@ export const canales = [
     adsl: "239.255.2.138",
     fca: "239.255.2.138",
     mpeg4: "239.255.3.50",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn.mitvstatic.com/channelTelsurs/cl_tv-globo_m.png"
 
@@ -1344,7 +1344,7 @@ export const canales = [
     adsl: "239.255.3.84",
     fca: "239.255.3.85",
     mpeg4: "239.255.3.85",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
   },
@@ -1358,7 +1358,7 @@ export const canales = [
     adsl: "239.255.3.84",
     fca: "239.255.3.85",
     mpeg4: "239.255.3.85",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.digitaltveurope.com/files/2023/10/Unknown-300x300.png"
   },
@@ -1372,7 +1372,7 @@ export const canales = [
     adsl: "239.255.3.84",
     fca: "239.255.3.85",
     mpeg4: "239.255.3.85",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6bf7cf246d5c1a23aba7cfe8ce72381a.webp"
   },
@@ -1386,7 +1386,7 @@ export const canales = [
     adsl: "239.255.2.82",
     fca: "239.255.2.82",
     mpeg4: "239.255.3.44",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png/150px-C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png"
   },
@@ -1400,7 +1400,7 @@ export const canales = [
     adsl: "239.255.2.83",
     fca: "239.255.5.83",
     mpeg4: "239.255.5.83",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://yt3.googleusercontent.com/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s176-c-k-c0x00ffffff-no-rj"
   },
@@ -1414,7 +1414,7 @@ export const canales = [
     adsl: "239.255.2.246",
     fca: "239.255.2.246",
     mpeg4: "239.255.3.126",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/150px-Emblema_de_24_Horas_TVN.svg.png",
   },
@@ -1428,7 +1428,7 @@ export const canales = [
     adsl: "239.255.2.114",
     fca: "239.255.2.114",
     mpeg4: "239.255.3.43",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png"
   },
@@ -1442,7 +1442,7 @@ export const canales = [
     adsl: "239.255.2.17",
     fca: "239.255.5.17",
     mpeg4: "239.255.5.17",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"
   },
@@ -1456,7 +1456,7 @@ export const canales = [
     adsl: "239.255.2.15",
     fca: "239.255.5.15",
     mpeg4: "239.255.5.15",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png"
   },
@@ -1474,7 +1474,7 @@ export const canales = [
     adsl: "239.255.2.9",
     fca: "239.255.2.9",
     mpeg4: "239.255.3.240",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_ChannelTelsur_logo.svg/120px-Fox_News_ChannelTelsur_logo.svg.png"
 
@@ -1489,7 +1489,7 @@ export const canales = [
     adsl: "239.255.5.124",
     fca: "239.255.5.124",
     mpeg4: "239.255.3.68",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",
   },
@@ -1503,7 +1503,7 @@ export const canales = [
     adsl: "239.255.2.27",
     fca: "239.255.2.34",
     mpeg4: "239.255.3.244",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/600px-BBC_World_News_2019.svg.png"
   },
@@ -1517,7 +1517,7 @@ export const canales = [
     adsl: "239.255.3.144",
     fca: "239.255.3.144",
     mpeg4: "239.255.3.144",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png"
   },
@@ -1531,7 +1531,7 @@ export const canales = [
     adsl: "239.255.2.173",
     fca: "239.255.2.173",
     mpeg4: "239.255.2.173",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png"
   },
@@ -1545,7 +1545,7 @@ export const canales = [
     adsl: "239.255.2.174",
     fca: "239.255.2.174",
     mpeg4: "239.255.3.51",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/175px-Bloomberg_Television_logo.svg.png"
   },
@@ -1559,7 +1559,7 @@ export const canales = [
     adsl: "239.255.2.171",
     fca: "239.255.2.171",
     mpeg4: "239.255.2.171",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png"
   },
@@ -1573,7 +1573,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.130",
     mpeg4: "239.255.2.158",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png"
   },
@@ -1587,7 +1587,7 @@ export const canales = [
     adsl: "239.255.2.130",
     fca: "239.255.2.130",
     mpeg4: "239.255.2.158",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png"
   }, */
@@ -1601,7 +1601,7 @@ export const canales = [
     adsl: "239.255.2.26",
     fca: "239.255.5.26",
     mpeg4: "239.255.5.26",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn.mitvstatic.com/channelTelsurs/cl_ewtn_m.png"
 
@@ -1616,7 +1616,7 @@ export const canales = [
     adsl: "239.255.3.167",
     fca: "239.255.3.167",
     mpeg4: "239.255.3.167",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maria-vision.jpg/150px-Maria-vision.jpg"
   },
@@ -1630,7 +1630,7 @@ export const canales = [
     adsl: "239.255.2.88",
     fca: "239.255.2.88",
     mpeg4: "239.255.2.88",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn.mitvstatic.com/channelTelsurs/b44351a4-f08c-4d49-b657-52ae6fbcfc98_m.jpg"
 
@@ -1645,7 +1645,7 @@ export const canales = [
     adsl: "239.255.2.94",
     fca: "239.255.2.94",
     mpeg4: "239.255.2.94",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn.mitvstatic.com/channelTelsurs/cl_nuevo-tiempo_m.png"
 
@@ -1660,7 +1660,7 @@ export const canales = [
     adsl: "239.255.2.70",
     fca: "239.255.5.70",
     mpeg4: "239.255.5.70",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/150px-Logo_TNT_Novelas.png"
   },
@@ -1674,7 +1674,7 @@ export const canales = [
     adsl: "239.255.2.16",
     fca: "239.255.2.16",
     mpeg4: "239.255.3.250",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/220px-Paramount_Global.svg.png"
   },
@@ -1688,7 +1688,7 @@ export const canales = [
     adsl: "239.255.2.47",
     fca: "239.255.2.47",
     mpeg4: "239.255.3.251",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png"
   },
@@ -1702,7 +1702,7 @@ export const canales = [
     adsl: "239.255.2.60",
     fca: "239.255.2.60",
     mpeg4: "239.255.3.252",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://la.sonychannelTelsur.com/sites/g/files/objgke216/files/Sony_ChannelTelsur_Mango_Logo_System_Onesheet_RGB_071923-prueba.png"
   },
@@ -1720,7 +1720,7 @@ export const canales = [
     adsl: "239.255.2.37",
     fca: "239.255.2.37",
     mpeg4: "239.255.3.245",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_ChannelTelsur_2020.svg/1200px-Star_ChannelTelsur_2020.svg.png"
   },
@@ -1734,7 +1734,7 @@ export const canales = [
     adsl: "239.255.2.45",
     fca: "239.255.5.45",
     mpeg4: "239.255.3.159",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"
   },
@@ -1752,7 +1752,7 @@ export const canales = [
     adsl: "239.255.2.41",
     fca: "239.255.2.41",
     mpeg4: "239.255.3.18",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/800px-Universal-Pictures-Logo.svg.png"
   },
@@ -1766,7 +1766,7 @@ export const canales = [
     adsl: "239.255.2.8",
     fca: "239.255.2.8",
     mpeg4: "239.255.3.253",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://bittchannelTelsur.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png"
   },
@@ -1780,7 +1780,7 @@ export const canales = [
     adsl: "239.255.2.50",
     fca: "239.255.5.50",
     mpeg4: "239.255.2.86",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/222.png"
   },
@@ -1794,7 +1794,7 @@ export const canales = [
     adsl: "239.255.2.22",
     fca: "239.255.2.22",
     mpeg4: "239.255.3.19",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/223.png"
   },
@@ -1808,7 +1808,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.65",
     mpeg4: "239.255.5.65",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/320px-Adult_Swim_2003_logo.svg.png"
   },
@@ -1822,7 +1822,7 @@ export const canales = [
     adsl: "239.255.2.87",
     fca: "239.255.2.87",
     mpeg4: "239.255.2.129",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
   },
@@ -1836,7 +1836,7 @@ export const canales = [
     adsl: "239.255.2.64",
     fca: "239.255.5.64",
     mpeg4: "239.255.5.64",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png"
   },
@@ -1850,7 +1850,7 @@ export const canales = [
     adsl: "239.255.2.38",
     fca: "239.255.2.38",
     mpeg4: "239.255.3.160",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png"
   },
@@ -1864,7 +1864,7 @@ export const canales = [
     adsl: "239.255.2.170",
     fca: "239.255.2.170",
     mpeg4: "239.255.2.170",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
   },
@@ -1878,7 +1878,7 @@ export const canales = [
     adsl: "239.255.2.69",
     fca: "239.255.2.69",
     mpeg4: "239.255.3.161",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png"
   },
@@ -1892,7 +1892,7 @@ export const canales = [
     adsl: "239.255.3.133",
     fca: "239.255.3.133",
     mpeg4: "239.255.3.109",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png"
   },
@@ -1906,7 +1906,7 @@ export const canales = [
     adsl: "239.255.2.46",
     fca: "239.255.2.46",
     mpeg4: "239.255.3.187",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png"
   },
@@ -1920,7 +1920,7 @@ export const canales = [
     adsl: "239.255.2.61",
     fca: "239.255.5.61",
     mpeg4: "239.255.5.61",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/150px-MTV-2021.svg.png"
   },
@@ -1934,7 +1934,7 @@ export const canales = [
     adsl: "239.255.2.63",
     fca: "239.255.5.63",
     mpeg4: "239.255.5.63",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
   },
@@ -1948,7 +1948,7 @@ export const canales = [
     adsl: "239.255.3.243",
     fca: "239.255.3.243",
     mpeg4: "239.255.3.232",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
   },
@@ -1962,7 +1962,7 @@ export const canales = [
     adsl: "239.255.2.119",
     fca: "239.255.5.119",
     mpeg4: "239.255.5.119",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png"
   },
@@ -1976,7 +1976,7 @@ export const canales = [
     adsl: "239.255.2.118",
     fca: "239.255.5.118",
     mpeg4: "239.255.5.118",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/125px-Club_MTV_2021_logo.svg.png"
   },
@@ -1990,7 +1990,7 @@ export const canales = [
     adsl: "239.255.2.117",
     fca: "239.255.5.117",
     mpeg4: "239.255.5.117",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NickMusic_%282016-.n.v.%29.png/800px-NickMusic_%282016-.n.v.%29.png"
   },
@@ -2004,7 +2004,7 @@ export const canales = [
     adsl: "239.255.2.242",
     fca: "239.255.5.242",
     mpeg4: "239.255.5.242",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/120px-MuchMusicLA_%282007%29.svg.png"
   },
@@ -2018,7 +2018,7 @@ export const canales = [
     adsl: "239.255.2.67",
     fca: "239.255.5.67",
     mpeg4: "239.255.5.67",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png"
   },
@@ -2032,7 +2032,7 @@ export const canales = [
     adsl: "239.255.2.18",
     fca: "239.255.2.18",
     mpeg4: "239.255.3.20",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png"
   },
@@ -2046,7 +2046,7 @@ export const canales = [
     adsl: "239.255.2.39",
     fca: "239.255.2.39",
     mpeg4: "239.255.3.24",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png"
   },
@@ -2060,7 +2060,7 @@ export const canales = [
     adsl: "239.255.2.57",
     fca: "239.255.5.57",
     mpeg4: "239.255.3.162",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png"
   },
@@ -2074,7 +2074,7 @@ export const canales = [
     adsl: "239.255.2.19",
     fca: "239.255.2.19",
     mpeg4: "239.255.3.25",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png"
   },
@@ -2088,7 +2088,7 @@ export const canales = [
     adsl: "239.255.2.166",
     fca: "239.255.2.166",
     mpeg4: "239.255.3.48",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/232.png"
   },
@@ -2102,7 +2102,7 @@ export const canales = [
     adsl: "239.255.2.1",
     fca: "239.255.2.50",
     mpeg4: "239.255.3.230",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/230.png"
   },
@@ -2116,7 +2116,7 @@ export const canales = [
     adsl: "239.255.2.23",
     fca: "239.255.2.23",
     mpeg4: "239.255.3.231",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png"
   },
@@ -2130,7 +2130,7 @@ export const canales = [
     adsl: "239.255.2.21",
     fca: "239.255.2.21",
     mpeg4: "239.255.3.238",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/740.png"
   },
@@ -2144,7 +2144,7 @@ export const canales = [
     adsl: "239.255.2.120",
     fca: "239.255.5.120",
     mpeg4: "239.255.5.120",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png"
   },
@@ -2158,7 +2158,7 @@ export const canales = [
     adsl: "239.255.2.112",
     fca: "239.255.5.112",
     mpeg4: "239.255.5.112",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://media-prod.press.discovery.com/ugc/logos/2012/12/19/thumbnails/sci-horiz__.jpg"
   },
@@ -2172,7 +2172,7 @@ export const canales = [
     adsl: "239.255.2.71",
     fca: "239.255.2.71",
     mpeg4: "239.255.3.237",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png"
   },
@@ -2186,7 +2186,7 @@ export const canales = [
     adsl: "239.255.2.13",
     fca: "239.255.5.13",
     mpeg4: "239.255.5.13",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png"
   },
@@ -2200,7 +2200,7 @@ export const canales = [
     adsl: "239.255.2.30",
     fca: "239.255.2.30",
     mpeg4: "239.255.3.163",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png"
   },
@@ -2214,7 +2214,7 @@ export const canales = [
     adsl: "239.255.3.143",
     fca: "239.255.3.143",
     mpeg4: "239.255.3.49",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png"
   },
@@ -2228,7 +2228,7 @@ export const canales = [
     adsl: "239.255.2.66",
     fca: "239.255.3.37",
     mpeg4: "239.255.3.164",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://cdn.mitvstatic.com/channelTelsurs/pe_space_m.png"
   },
@@ -2242,7 +2242,7 @@ export const canales = [
     adsl: "239.255.2.36",
     fca: "239.255.3.38",
     mpeg4: "239.255.5.36",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/293px-StudioUniversal2016.png"
   },
@@ -2256,7 +2256,7 @@ export const canales = [
     adsl: "239.255.2.3",
     fca: "239.255.2.3",
     mpeg4: "239.255.3.236",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1210.png"
   },
@@ -2274,7 +2274,7 @@ export const canales = [
     adsl: "239.255.2.245",
     fca: "239.255.2.245",
     mpeg4: "239.255.2.245",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.eurochannelTelsur.com/images/Logo_EurochannelTelsur-Blue.png"
   },
@@ -2288,7 +2288,7 @@ export const canales = [
     adsl: "239.255.5.125",
     fca: "239.255.5.125",
     mpeg4: "239.255.3.64",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://www.europaeuropa.tv/theme/assets/ee-logo.png"
   },
@@ -2302,7 +2302,7 @@ export const canales = [
     adsl: "239.255.2.68",
     fca: "239.255.5.68",
     mpeg4: "239.255.5.68",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png"
   },
@@ -2316,7 +2316,7 @@ export const canales = [
     adsl: "239.255.2.34",
     fca: "239.255.3.39",
     mpeg4: "239.255.3.39",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineFamiliar.png"
   },
@@ -2330,7 +2330,7 @@ export const canales = [
     adsl: "239.255.2.49",
     fca: "239.255.2.49",
     mpeg4: "239.255.3.217",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png"
   },
@@ -2344,7 +2344,7 @@ export const canales = [
     adsl: "239.255.2.14",
     fca: "239.255.5.14",
     mpeg4: "239.255.5.14",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png"
   },
@@ -2358,7 +2358,7 @@ export const canales = [
     adsl: "239.255.2.28",
     fca: "239.255.2.28",
     mpeg4: "239.255.3.26",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png"
   },
@@ -2372,7 +2372,7 @@ export const canales = [
     adsl: "239.255.2.53",
     fca: "239.255.2.53",
     mpeg4: "239.255.2.161",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png"
   },
@@ -2386,7 +2386,7 @@ export const canales = [
     adsl: "239.255.2.51",
     fca: "239.255.2.51",
     mpeg4: "239.255.3.213",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png"
   },
@@ -2400,7 +2400,7 @@ export const canales = [
     adsl: "239.255.2.54",
     fca: "239.255.2.66",
     mpeg4: "239.255.2.162",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png"
   },
@@ -2414,7 +2414,7 @@ export const canales = [
     adsl: "239.255.2.56",
     fca: "239.255.2.56",
     mpeg4: "239.255.2.164",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png"
   },
@@ -2428,7 +2428,7 @@ export const canales = [
     adsl: "239.255.2.48",
     fca: "239.255.2.48",
     mpeg4: "239.255.3.216",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png"
   },
@@ -2442,7 +2442,7 @@ export const canales = [
     adsl: "239.255.2.58",
     fca: "239.255.2.58",
     mpeg4: "239.255.3.70",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png"
   },
@@ -2456,7 +2456,7 @@ export const canales = [
     adsl: "239.255.2.59",
     fca: "239.255.2.59",
     mpeg4: " '",
-    criticidad: "Severidad:  '",
+    criticidad: " '",
     bw: "3.5",
   },
   {
@@ -2469,7 +2469,7 @@ export const canales = [
     adsl: "239.255.2.101",
     fca: "239.255.2.101",
     mpeg4: "239.255.2.101",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png"
   },
@@ -2483,7 +2483,7 @@ export const canales = [
     adsl: "239.255.2.251",
     fca: "239.255.2.251",
     mpeg4: "239.255.2.251",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png"
   },
@@ -2497,7 +2497,7 @@ export const canales = [
     adsl: "239.255.3.103",
     fca: "239.255.3.103",
     mpeg4: "239.255.3.103",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png"
   },
@@ -2511,7 +2511,7 @@ export const canales = [
     adsl: "239.255.3.104",
     fca: "239.255.2.57",
     mpeg4: "239.255.3.104",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png"
   },
@@ -2525,7 +2525,7 @@ export const canales = [
     adsl: "239.255.2.232",
     fca: "239.255.2.232",
     mpeg4: "239.255.2.232",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/800px-TV%2B_%282018%29.png"
   },
@@ -2539,7 +2539,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.232",
     mpeg4: "239.255.2.232",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.ecured.cu/images/5/5a/Sdrfgd.png"
   },
@@ -2553,7 +2553,7 @@ export const canales = [
     adsl: "239.255.2.233",
     fca: "239.255.2.233",
     mpeg4: "239.255.2.233",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png"
   },
@@ -2567,7 +2567,7 @@ export const canales = [
     adsl: "239.255.2.233",
     fca: "239.255.2.233",
     mpeg4: "239.255.2.233",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://brandemia.org/sites/default/files/sites/default/files/logo_mega-despues.jpg"
   },
@@ -2581,7 +2581,7 @@ export const canales = [
     adsl: "239.255.2.230",
     fca: "239.255.2.230",
     mpeg4: "239.255.2.230",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "9",
     src: "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png"
   },
@@ -2595,7 +2595,7 @@ export const canales = [
     adsl: "239.255.2.230",
     fca: "239.255.2.230",
     mpeg4: "239.255.2.230",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_de_Canal_13_HD_%282010%29.png/800px-Logo_de_Canal_13_HD_%282010%29.png"
   },
@@ -2609,7 +2609,7 @@ export const canales = [
     adsl: "239.255.2.230",
     fca: "239.255.2.230",
     mpeg4: "239.255.2.230",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png"
   },
@@ -2623,7 +2623,7 @@ export const canales = [
     adsl: "239.255.2.230",
     fca: "239.255.2.230",
     mpeg4: "239.255.2.230",
-    criticidad: "Severidad: 1",
+    criticidad: "1",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
   },
@@ -2637,7 +2637,7 @@ export const canales = [
     adsl: "239.255.3.99",
     fca: "239.255.3.99",
     mpeg4: "239.255.3.99",
-    criticidad: "Severidad: 2",
+    criticidad: "2",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/150px-Emblema_de_24_Horas_TVN.svg.png"
   },
@@ -2651,7 +2651,7 @@ export const canales = [
     adsl: "239.255.3.10",
     fca: "239.255.3.10",
     mpeg4: "239.255.3.10",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png"
   },
@@ -2665,7 +2665,7 @@ export const canales = [
     adsl: "239.255.3.254",
     fca: "239.255.3.254",
     mpeg4: "239.255.3.52",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
   },
@@ -2679,7 +2679,7 @@ export const canales = [
     adsl: "239.255.2.144",
     fca: "239.255.2.144",
     mpeg4: "239.255.3.53",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png"
   },
@@ -2697,7 +2697,7 @@ export const canales = [
     adsl: "239.255.2.250",
     fca: "239.255.2.250",
     mpeg4: "239.255.2.250",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_ChannelTelsur_2020.svg/1200px-Star_ChannelTelsur_2020.svg.png"
   },
@@ -2711,7 +2711,7 @@ export const canales = [
     adsl: "239.255.2.252",
     fca: "239.255.2.13",
     mpeg4: "239.255.2.252",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png"
   },
@@ -2725,7 +2725,7 @@ export const canales = [
     adsl: "239.255.2.253",
     fca: "239.255.2.253",
     mpeg4: "239.255.2.253",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png"
   },
@@ -2739,7 +2739,7 @@ export const canales = [
     adsl: "239.255.2.109",
     fca: "239.255.2.62",
     mpeg4: "239.255.2.109",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png"
   },
@@ -2753,7 +2753,7 @@ export const canales = [
     adsl: "239.255.2.105",
     fca: "239.255.2.105",
     mpeg4: "239.255.2.105",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/800px-History_HD_Logo.svg.png"
   },
@@ -2767,7 +2767,7 @@ export const canales = [
     adsl: "239.255.3.242",
     fca: "239.255.3.242",
     mpeg4: "239.255.3.242",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
   },
@@ -2781,7 +2781,7 @@ export const canales = [
     adsl: "239.255.3.112",
     fca: "239.255.3.112",
     mpeg4: "239.255.3.112",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/223.png"
   },
@@ -2795,7 +2795,7 @@ export const canales = [
     adsl: "239.255.3.111",
     fca: "239.255.3.111",
     mpeg4: "239.255.3.111",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png"
   },
@@ -2809,7 +2809,7 @@ export const canales = [
     adsl: "239.255.3.174",
     fca: "239.255.3.174",
     mpeg4: "239.255.3.174",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png"
   },
@@ -2823,7 +2823,7 @@ export const canales = [
     adsl: "239.255.2.152",
     fca: "239.255.2.152",
     mpeg4: "239.255.2.152",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1156.png"
 
@@ -2838,7 +2838,7 @@ export const canales = [
     adsl: "239.255.2.153",
     fca: "239.255.2.153",
     mpeg4: "239.255.2.153",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://media.licdn.com/dms/image/C510BAQEBuxnuTcXbKw/company-logo_200_200/0/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
   },
@@ -2852,7 +2852,7 @@ export const canales = [
     adsl: "239.255.2.89",
     fca: "239.255.2.89",
     mpeg4: "239.255.2.89",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://pbs.twimg.com/profile_images/421716542946955264/hBlmbZpL_400x400.png"
   },
@@ -2866,7 +2866,7 @@ export const canales = [
     adsl: "239.255.2.154",
     fca: "239.255.2.154",
     mpeg4: "239.255.2.154",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://pbs.twimg.com/profile_images/705138470050631680/gypFDeR4_400x400.jpg"
   },
@@ -2880,7 +2880,7 @@ export const canales = [
     adsl: "239.255.3.91",
     fca: "239.255.3.91",
     mpeg4: "239.255.3.91",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
   },
@@ -2894,7 +2894,7 @@ export const canales = [
     adsl: "239.255.3.119",
     fca: "239.255.3.119",
     mpeg4: "239.255.3.119",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png"
   },
@@ -2908,7 +2908,7 @@ export const canales = [
     adsl: "239.255.3.102",
     fca: "239.255.3.102",
     mpeg4: "239.255.3.102",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png"
   },
@@ -2922,7 +2922,7 @@ export const canales = [
     adsl: "239.255.3.92",
     fca: "239.255.3.92",
     mpeg4: "239.255.3.92",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_ChannelTelsur_Logo.svg/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
 
@@ -2937,7 +2937,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.92",
     mpeg4: "239.255.3.92",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png"
   },
@@ -2951,7 +2951,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.92",
     mpeg4: "239.255.3.92",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1200px-Logo_tvu.png"
   },
@@ -2965,7 +2965,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.140",
     mpeg4: "239.255.5.141",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://cdn-w.tvdaldia.cl/canales/logo_mega2.png"
   },
@@ -2979,7 +2979,7 @@ export const canales = [
     adsl: "239.255.5.140",
     fca: "239.255.5.140",
     mpeg4: "239.255.5.141",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://play-lh.googleusercontent.com/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
   },
@@ -2997,7 +2997,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.140",
     mpeg4: "239.255.5.141",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1312.png"
 
@@ -3012,7 +3012,7 @@ export const canales = [
     adsl: "239.255.3.11",
     fca: "239.255.3.11",
     mpeg4: "239.255.3.11",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/622.png"
 
@@ -3027,7 +3027,7 @@ export const canales = [
     adsl: "239.255.3.11",
     fca: "239.255.3.11",
     mpeg4: "239.255.3.11",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1631_CL.png"
 
@@ -3042,7 +3042,7 @@ export const canales = [
     adsl: "239.255.3.208",
     fca: "239.255.3.208",
     mpeg4: "239.255.3.208",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://cdn.mitvstatic.com/channelTelsurs/cl_fox-sports-1-hd_m.png"
 
@@ -3057,7 +3057,7 @@ export const canales = [
     adsl: "239.255.3.188",
     fca: "239.255.3.188",
     mpeg4: "239.255.3.188",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
   },
@@ -3071,7 +3071,7 @@ export const canales = [
     adsl: "239.255.3.12",
     fca: "239.255.3.12",
     mpeg4: "239.255.3.12",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
 
@@ -3086,7 +3086,7 @@ export const canales = [
     adsl: "239.255.2.156",
     fca: "239.255.2.156",
     mpeg4: "239.255.2,156",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/100px-GolTV_logo.svg.png"
   },
@@ -3100,7 +3100,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.156",
     mpeg4: "239.255.2,156",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png"
   },
@@ -3114,7 +3114,7 @@ export const canales = [
     adsl: "239.255.2.157",
     fca: "239.255.2.157",
     mpeg4: "239.255.2.157",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
   },
@@ -3128,7 +3128,7 @@ export const canales = [
     adsl: "239.255.2.234",
     fca: "239.255.2.234",
     mpeg4: "239.255.3.33",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png"
   },
@@ -3142,7 +3142,7 @@ export const canales = [
     adsl: "239.255.2.234",
     fca: "239.255.2.234",
     mpeg4: "239.255.3.33",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png"
   },
@@ -3156,7 +3156,7 @@ export const canales = [
     adsl: "239.255.3.13",
     fca: "239.255.3.13",
     mpeg4: "239.255.3.185",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/623.png"
 
@@ -3171,7 +3171,7 @@ export const canales = [
     adsl: "239.255.3.189",
     fca: "239.255.3.189",
     mpeg4: "239.255.3.189",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png"
   },
@@ -3185,7 +3185,7 @@ export const canales = [
     adsl: "239.255.5.151",
     fca: "239.255.5.151",
     mpeg4: "239.255.5.151",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.altice.com.do/sites/default/files/styles/teaser_device/public/2023-04/464-ESPN-4.png.jpg?itok=Fc1ywQqV"
   },
@@ -3199,7 +3199,7 @@ export const canales = [
     adsl: "239.255.5.151",
     fca: "239.255.5.151",
     mpeg4: "239.255.5.151",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.altice.com.do/sites/default/files/styles/teaser_device/public/assets/channelTelsur/E.png.jpg?itok=CPqlMtiD"
 
@@ -3214,7 +3214,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.151",
     mpeg4: "239.255.5.151",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.gtd.cl/documents/862366/7183626/History_2_HD.png/f5352fc9-25d4-bb74-c1f2-bca84c2f50a9?t=1672944420283"
   },
@@ -3228,7 +3228,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.5.151",
     mpeg4: "239.255.5.151",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_1163_7_84391.png.ad07482ef2ff1e743e436386d85b9f42.png"
   },
@@ -3242,7 +3242,7 @@ export const canales = [
     adsl: "239.255.2.107",
     fca: "239.255.2.107",
     mpeg4: "239.255.2.107",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"
   },
@@ -3256,7 +3256,7 @@ export const canales = [
     adsl: "239.255.2.107",
     fca: "239.255.2.107",
     mpeg4: "239.255.2.107",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1508.png"
 
@@ -3271,7 +3271,7 @@ export const canales = [
     adsl: "239.255.2.107",
     fca: "239.255.2.107",
     mpeg4: "239.255.2.107",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1510.png"
 
@@ -3286,7 +3286,7 @@ export const canales = [
     adsl: "239.255.2.227",
     fca: "239.255.2.227",
     mpeg4: "239.255.2.227",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1209.png"
 
@@ -3301,7 +3301,7 @@ export const canales = [
     adsl: "239.255.2.236",
     fca: "239.255.2.236",
     mpeg4: "239.255.2.236",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1506.png"
 
@@ -3316,7 +3316,7 @@ export const canales = [
     adsl: "239.255.3.22",
     fca: "239.255.3.22",
     mpeg4: "239.255.3.22",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1217.png"
 
@@ -3331,7 +3331,7 @@ export const canales = [
     adsl: "239.255.2.237",
     fca: "239.255.2.237",
     mpeg4: "239.255.2.237",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1207.png"
   },
@@ -3345,7 +3345,7 @@ export const canales = [
     adsl: "239.255.2.158",
     fca: "239.255.2.158",
     mpeg4: "239.255.3.129",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png"
   },
@@ -3359,7 +3359,7 @@ export const canales = [
     adsl: "239.255.2.159",
     fca: "239.255.2.159",
     mpeg4: "239.255.2.159",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://www.tumundo.cl/wp-content/uploads/2022/11/Azteca_Internacional_Logo-1.jpg"
   },
@@ -3373,7 +3373,7 @@ export const canales = [
     adsl: "239.255.2.231",
     fca: "239.255.2.231",
     mpeg4: "239.255.2.231",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png"
   },
@@ -3387,7 +3387,7 @@ export const canales = [
     adsl: "239.255.2.160",
     fca: "239.255.2.160",
     mpeg4: "239.255.2.160",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
   },
@@ -3401,7 +3401,7 @@ export const canales = [
     adsl: "239.255.3.46",
     fca: "239.255.3.46",
     mpeg4: "239.255.3.46",
-    criticidad: "Severidad: 3",
+    criticidad: "3",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png"
   },
@@ -3415,7 +3415,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
   },
@@ -3429,7 +3429,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/America_Televisi%C3%B3n-logo.svg/799px-America_Televisi%C3%B3n-logo.svg.png"
   },
@@ -3443,7 +3443,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
   },
@@ -3457,7 +3457,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/320px-Adult_Swim_2003_logo.svg.png"
   },
@@ -3471,7 +3471,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png"
   },
@@ -3485,7 +3485,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://www.directv.cl/content/dam/public-sites/channelTelsurs/740.png"
 
@@ -3500,7 +3500,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png"
   },
@@ -3514,7 +3514,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.2.243",
     mpeg4: "239.255.2.243",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://media-prod.press.discovery.com/ugc/logos/2012/12/19/thumbnails/sci-horiz__.jpg"
   },
@@ -3528,7 +3528,7 @@ export const canales = [
     adsl: "239.255.2.235",
     fca: "239.255.2.235",
     mpeg4: "239.255.2.235",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png"
   },
@@ -3542,7 +3542,7 @@ export const canales = [
     adsl: "239.255.2.155",
     fca: "239.255.2.155",
     mpeg4: "239.255.2.155",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
   },
@@ -3556,7 +3556,7 @@ export const canales = [
     adsl: "Cambiar",
     fca: "239.255.3.97",
     mpeg4: "239.255.3.97",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"
   },
@@ -3570,7 +3570,7 @@ export const canales = [
     adsl: "239.255.3.95",
     fca: "239.255.3.95",
     mpeg4: "239.255.3.95",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://bitred.cl/img/canales/peliculas/cine-premiun.webp"
   },
@@ -3584,7 +3584,7 @@ export const canales = [
     adsl: "239.255.3.93",
     fca: "239.255.3.93",
     mpeg4: "239.255.3.124",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://bittchannelTelsur.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png"
 
@@ -3599,7 +3599,7 @@ export const canales = [
     adsl: "239.255.2.228",
     fca: "239.255.2.228",
     mpeg4: "239.255.2.228",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/small.5786a2a967697_TNTHD.png.51bd31f11fde354163821d0d9130bb35.png"
   },
@@ -3613,7 +3613,7 @@ export const canales = [
     adsl: "239.255.2.254",
     fca: "239.255.2.254",
     mpeg4: "239.255.3.94",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/310732348_200539515677550_8348203713119663632_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHO0K_gPn3ZX-IW-64e4Ux3wXKmBX6x3CjBcqYFfrHcKNyLSpWUfF8rP5P4xqOPJzw&_nc_ohc=pqRASPmafuwAX8Bz10q&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCLFuoFSzunabSq2ZPlrtV1H924SNEe2YCj8mXSeo2EbQ&oe=6562544B"
   },
@@ -3627,7 +3627,7 @@ export const canales = [
     adsl: "239.255.2.110",
     fca: "239.255.2.110",
     mpeg4: "239.255.3.229",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://cdn.mitvstatic.com/channelTelsurs/co_cinecanal-sd-hd-1_m.png"
 
@@ -3642,7 +3642,7 @@ export const canales = [
     adsl: "239.255.2.161",
     fca: "239.255.2.161",
     mpeg4: "239.255.3.212",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png"
   },
@@ -3656,7 +3656,7 @@ export const canales = [
     adsl: "239.255.2.162",
     fca: "239.255.2.162",
     mpeg4: "239.255.3.221",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png"
   },
@@ -3670,7 +3670,7 @@ export const canales = [
     adsl: "239.255.2.163",
     fca: "239.255.2.163",
     mpeg4: " '",
-    criticidad: "Severidad:  '",
+    criticidad: " '",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png"
   },
@@ -3684,7 +3684,7 @@ export const canales = [
     adsl: "239.255.3.55",
     fca: "239.255.3.55",
     mpeg4: "239.255.3.55",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "9",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png"
   },
@@ -3698,7 +3698,7 @@ export const canales = [
     adsl: "239.255.3.146",
     fca: "239.255.3.146",
     mpeg4: "239.255.3.146",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "3.5",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Telsur_logo_2019.svg/1200px-Telsur_logo_2019.svg.png"
   },
@@ -3712,7 +3712,7 @@ export const canales = [
     adsl: "239.255.2.213",
     fca: "239.255.2.213",
     mpeg4: "239.255.2.213",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3726,7 +3726,7 @@ export const canales = [
     adsl: "239.255.2.218",
     fca: "239.255.2.218",
     mpeg4: "239.255.2.218",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3740,7 +3740,7 @@ export const canales = [
     adsl: "239.255.2.199",
     fca: "239.255.2.199",
     mpeg4: "239.255.2.192",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3754,7 +3754,7 @@ export const canales = [
     adsl: "239.255.2.185",
     fca: "239.255.2.185",
     mpeg4: "239.255.2.185",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3768,7 +3768,7 @@ export const canales = [
     adsl: "239.255.2.217",
     fca: "239.255.2.217",
     mpeg4: "239.255.2.217",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3782,7 +3782,7 @@ export const canales = [
     adsl: "239.255.2.197",
     fca: "239.255.2.197",
     mpeg4: "239.255.2.197",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3796,7 +3796,7 @@ export const canales = [
     adsl: "239.255.2.211",
     fca: "239.255.2.211",
     mpeg4: "239.255.2.211",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3810,7 +3810,7 @@ export const canales = [
     adsl: "239.255.2.219",
     fca: "239.255.2.219",
     mpeg4: "239.255.2.219",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3824,7 +3824,7 @@ export const canales = [
     adsl: "239.255.2.191",
     fca: "239.255.2.43",
     mpeg4: "239.255.2.191",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3838,7 +3838,7 @@ export const canales = [
     adsl: "239.255.2.220",
     fca: "239.255.2.220",
     mpeg4: "239.255.2.220",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3852,7 +3852,7 @@ export const canales = [
     adsl: "239.255.2.184",
     fca: "239.255.2.184",
     mpeg4: "239.255.2.184",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3866,7 +3866,7 @@ export const canales = [
     adsl: "239.255.2.224",
     fca: "239.255.2.224",
     mpeg4: "239.255.2.34",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3880,7 +3880,7 @@ export const canales = [
     adsl: "239.255.2.216",
     fca: "239.255.2.216",
     mpeg4: "239.255.2.216",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3894,7 +3894,7 @@ export const canales = [
     adsl: "239.255.2.198",
     fca: "239.255.2.198",
     mpeg4: "239.255.2.198",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3908,7 +3908,7 @@ export const canales = [
     adsl: "239.255.2.222",
     fca: "239.255.2.222",
     mpeg4: "239.255.2.222",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3922,7 +3922,7 @@ export const canales = [
     adsl: "239.255.2.182",
     fca: "239.255.2.182",
     mpeg4: "239.255.2.182",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3936,7 +3936,7 @@ export const canales = [
     adsl: "239.255.2.180",
     fca: "239.255.2.180",
     mpeg4: "239.255.2.180",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3950,7 +3950,7 @@ export const canales = [
     adsl: "239.255.2.186",
     fca: "239.255.2.186",
     mpeg4: "239.255.2.186",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3964,7 +3964,7 @@ export const canales = [
     adsl: "239.255.2.202",
     fca: "239.255.2.202",
     mpeg4: "239.255.2.202",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3978,7 +3978,7 @@ export const canales = [
     adsl: "239.255.2.195",
     fca: "239.255.2.195",
     mpeg4: "239.255.2.195",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -3992,7 +3992,7 @@ export const canales = [
     adsl: "239.255.2.192",
     fca: "239.255.2.192",
     mpeg4: "239.255.2.192",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4006,7 +4006,7 @@ export const canales = [
     adsl: "239.255.2.210",
     fca: "239.255.2.210",
     mpeg4: "239.255.2.210",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4020,7 +4020,7 @@ export const canales = [
     adsl: "239.255.2.183",
     fca: "239.255.2.183",
     mpeg4: "239.255.2.183",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4034,7 +4034,7 @@ export const canales = [
     adsl: "239.255.2.221",
     fca: "239.255.2.221",
     mpeg4: "239.255.2.221",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4048,7 +4048,7 @@ export const canales = [
     adsl: "239.255.2.190",
     fca: "239.255.2.190",
     mpeg4: "239.255.2.190",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4062,7 +4062,7 @@ export const canales = [
     adsl: "239.255.2.209",
     fca: "239.255.2.209",
     mpeg4: "239.255.2.209",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4076,7 +4076,7 @@ export const canales = [
     adsl: "239.255.2.205",
     fca: "239.255.2.205",
     mpeg4: "239.255.2.205",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4090,7 +4090,7 @@ export const canales = [
     adsl: "239.255.2.193",
     fca: "239.255.2.193",
     mpeg4: "239.255.2.193",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4104,7 +4104,7 @@ export const canales = [
     adsl: "239.255.2.204",
     fca: "239.255.2.204",
     mpeg4: "239.255.2.204",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4118,7 +4118,7 @@ export const canales = [
     adsl: "239.255.2.214",
     fca: "239.255.2.214",
     mpeg4: "239.255.2.214",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4132,7 +4132,7 @@ export const canales = [
     adsl: "239.255.2.178",
     fca: "239.255.2.178",
     mpeg4: "239.255.2.178",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4146,7 +4146,7 @@ export const canales = [
     adsl: "239.255.2.203",
     fca: "239.255.2.203",
     mpeg4: "239.255.2.203",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4160,7 +4160,7 @@ export const canales = [
     adsl: "239.255.2.201",
     fca: "239.255.2.201",
     mpeg4: "239.255.2.201",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4174,7 +4174,7 @@ export const canales = [
     adsl: "239.255.2.212",
     fca: "239.255.2.212",
     mpeg4: "239.255.2.212",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4188,7 +4188,7 @@ export const canales = [
     adsl: "239.255.2.196",
     fca: "239.255.2.196",
     mpeg4: "239.255.2.196",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4202,7 +4202,7 @@ export const canales = [
     adsl: "239.255.2.187",
     fca: "239.255.2.187",
     mpeg4: "239.255.2.187",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4216,7 +4216,7 @@ export const canales = [
     adsl: "239.255.2.189",
     fca: "239.255.2.189",
     mpeg4: "239.255.2.189",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4230,7 +4230,7 @@ export const canales = [
     adsl: "239.255.2.177",
     fca: "239.255.2.177",
     mpeg4: "239.255.2.177",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4244,7 +4244,7 @@ export const canales = [
     adsl: "239.255.2.207",
     fca: "239.255.2.207",
     mpeg4: "239.255.2.207",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4258,7 +4258,7 @@ export const canales = [
     adsl: "239.255.2.206",
     fca: "239.255.2.206",
     mpeg4: "239.255.2.206",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4272,7 +4272,7 @@ export const canales = [
     adsl: "239.255.2.179",
     fca: "239.255.2.179",
     mpeg4: "239.255.2.179",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4286,7 +4286,7 @@ export const canales = [
     adsl: "239.255.2.188",
     fca: "239.255.2.188",
     mpeg4: "239.255.2.188",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4300,7 +4300,7 @@ export const canales = [
     adsl: "239.255.2.200",
     fca: "239.255.2.200",
     mpeg4: "239.255.2.200",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4314,7 +4314,7 @@ export const canales = [
     adsl: "239.255.2.181",
     fca: "239.255.2.181",
     mpeg4: "239.255.2.181",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4328,7 +4328,7 @@ export const canales = [
     adsl: "239.255.2.215",
     fca: "239.255.2.215",
     mpeg4: "239.255.2.215",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1b/9a/106995/1/c300.png"
   },
@@ -4342,7 +4342,7 @@ export const canales = [
     adsl: "239.255.2.175",
     fca: "239.255.2.175",
     mpeg4: "239.255.2.175",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4356,7 +4356,7 @@ export const canales = [
     adsl: "239.255.2.223",
     fca: "239.255.2.223",
     mpeg4: "239.255.2.223",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4370,7 +4370,7 @@ export const canales = [
     adsl: "239.255.2.176",
     fca: "239.255.2.176",
     mpeg4: "239.255.2.176",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4384,7 +4384,7 @@ export const canales = [
     adsl: "239.255.2.208",
     fca: "239.255.2.208",
     mpeg4: "239.255.2.208",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4398,7 +4398,7 @@ export const canales = [
     adsl: "239.255.2.194",
     fca: "239.255.2.194",
     mpeg4: "239.255.2.194",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
   },
@@ -4412,7 +4412,7 @@ export const canales = [
     adsl: "239.255.3.88",
     fca: "239.255.3.88",
     mpeg4: "239.255.3.88",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/369911691_676823931143664_2950522864956371385_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHxN0f9X1vUW2jBRpnS114VpyzU-kSEtgCnLNT6RIS2AMtgXeDq3dEfRchmV1lewN0&_nc_ohc=WpVPrc32DrIAX8lTWOm&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBAQK_mDoucGlkYO_MBjkrDbku9sI9GibjvqpuyC8Jj3A&oe=65620994"
   },
@@ -4426,7 +4426,7 @@ export const canales = [
     adsl: "239.255.2.148",
     fca: "239.255.2.148",
     mpeg4: "239.255.2.148",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_Radio_concierto.png"
   },
@@ -4440,7 +4440,7 @@ export const canales = [
     adsl: "239.255.3.134",
     fca: "239.255.3.134",
     mpeg4: "239.255.3.134",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://pbs.twimg.com/profile_images/1201573602/logo_chanta_400x400.jpg"
   },
@@ -4454,7 +4454,7 @@ export const canales = [
     adsl: "239.255.3.136",
     fca: "239.255.3.136",
     mpeg4: "239.255.3.136",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/225px-Rock_%26_Pop_logo_2013.svg.png"
   },
@@ -4468,7 +4468,7 @@ export const canales = [
     adsl: "239.255.3.135",
     fca: "239.255.3.135",
     mpeg4: "239.255.3.135",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Play_FM_2018.png/1200px-Play_FM_2018.png"
   },
@@ -4482,7 +4482,7 @@ export const canales = [
     adsl: "239.255.3.132",
     fca: "239.255.3.132",
     mpeg4: "239.255.3.132",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Radio_FMDos.png"
   },
@@ -4496,7 +4496,7 @@ export const canales = [
     adsl: "239.255.3.138",
     fca: "239.255.3.138",
     mpeg4: "239.255.3.138",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ADN_Radio_Chile.svg/2560px-ADN_Radio_Chile.svg.png"
   },
@@ -4510,7 +4510,7 @@ export const canales = [
     adsl: "239.255.3.61",
     fca: "239.255.3.61",
     mpeg4: "239.255.3.61",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Radio_Tiempo_2018.png"
   },
@@ -4524,7 +4524,7 @@ export const canales = [
     adsl: "239.255.3.60",
     fca: "239.255.3.60",
     mpeg4: "239.255.3.60",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/225px-Logo_Radio_Beethoven_FM.png"
   },
@@ -4538,7 +4538,7 @@ export const canales = [
     adsl: "239.255.3.59",
     fca: "239.255.3.59",
     mpeg4: "239.255.3.59",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://www.futuro.cl/wp-content/uploads/2021/07/android-chrome-512x512-1.png"
   },
@@ -4552,7 +4552,7 @@ export const canales = [
     adsl: "239.255.2.139",
     fca: "239.255.2.139",
     mpeg4: "239.255.2.139",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
   },
@@ -4566,7 +4566,7 @@ export const canales = [
     adsl: "239.255.2.137",
     fca: "239.255.2.137",
     mpeg4: "239.255.2.137",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
   },
@@ -4580,7 +4580,7 @@ export const canales = [
     adsl: "239.255.2.136",
     fca: "239.255.2.136",
     mpeg4: "239.255.2.136",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
   },
@@ -4594,7 +4594,7 @@ export const canales = [
     adsl: "239.255.2.136",
     fca: "239.255.2.136",
     mpeg4: "239.255.2.136",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg"
   },
@@ -4609,7 +4609,7 @@ export const canales = [
     adsl: "239.255.3.139",
     fca: "239.255.3.139",
     mpeg4: "239.255.3.139",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bloomberg_Radio.svg/512px-Bloomberg_Radio.svg.png"
   },
@@ -4623,7 +4623,7 @@ export const canales = [
     adsl: "239.255.3.150",
     fca: "239.255.3.150",
     mpeg4: "239.255.3.150",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/640px-BBC_Radio_1_2021.svg.png"
   },
@@ -4637,7 +4637,7 @@ export const canales = [
     adsl: "239.255.3.151",
     fca: "239.255.3.151",
     mpeg4: "239.255.3.151",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1200px-Deutsche_Welle_Logo.svg.png"
   },
@@ -4651,7 +4651,7 @@ export const canales = [
     adsl: "239.255.3.152",
     fca: "239.255.3.152",
     mpeg4: "239.255.3.152",
-    criticidad: "Severidad: 4",
+    criticidad: "4",
     bw: "0.4",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rai_Radio_logo_%282010%29.svg/2560px-Rai_Radio_logo_%282010%29.svg.png"
   },

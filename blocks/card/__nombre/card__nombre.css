@@ -1,0 +1,6 @@
+.card__nombre{
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    border:1px solid red;
+}

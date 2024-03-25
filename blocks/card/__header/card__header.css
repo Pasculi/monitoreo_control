@@ -1,0 +1,8 @@
+.card__header{
+    display: flex;
+    position:absolute;
+    top:0;
+    flex-direction: column;
+    border:1px solid blue;
+    align-items:center
+}
