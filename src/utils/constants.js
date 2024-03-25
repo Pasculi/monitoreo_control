@@ -4661,3 +4661,4 @@ export const canales = [
 export const section = document.querySelector('.section');
 
 export const templateCard = document.querySelector('.template-card-forward');
+
